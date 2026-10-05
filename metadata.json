@@ -1,0 +1,6 @@
+{
+  "name": "Image Resizer & Compressor",
+  "description": "Client-side image resizing and compression tool with live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
