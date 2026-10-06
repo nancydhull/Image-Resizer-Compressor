@@ -1,4 +1,4 @@
-<img width="1574" height="725" alt="image" src="https://github.com/user-attachments/assets/ef1fd41b-2d11-4251-9a64-13de5af0f0d7" /># 🖼️ Image Resizer & Compressor
+# 🖼️ Image Resizer & Compressor
 
 A simple, easy-to-use photo editing web app to resize images, adjust pixel resolution, and remove backgrounds — right from your browser.
 
