@@ -1,10 +1,9 @@
-# 🖼️ Image Resizer & Compressor
+<img width="1574" height="725" alt="image" src="https://github.com/user-attachments/assets/ef1fd41b-2d11-4251-9a64-13de5af0f0d7" /># 🖼️ Image Resizer & Compressor
 
 A simple, easy-to-use photo editing web app to resize images, adjust pixel resolution, and remove backgrounds — right from your browser.
 
-🔗 **Live App:** [https://image-resizer-compressor-1.ai.studio](https://image-resizer-compressor-1.ai.studio)
-
-
+🔗 **Live App:** [https://image-resizer-compressor-1.ai.studio](https://image-resize
+<img width="1583" height="719" alt="Screenshot 2026-10-06 102151" src="https://github.com/user-attachments/assets/366d3ea2-b4ff-4e4b-b49d-dd6892bae940" />
 
 ## ✨ Features
 
